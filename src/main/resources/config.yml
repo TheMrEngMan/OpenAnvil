@@ -1,0 +1,7 @@
+# Messages
+reloaded-message: '&8[&7OpenAnvil&8] &aConfiguration was reloaded!'
+no-permission-message: '&8[&7OpenAnvil&8] &cSorry, you don''t have permission to do that!'
+player-only-command-message: '&8[&7OpenAnvil&8] &cSorry, this command can only be run in-game by a player!'
+
+# Print debug messages to console (leave as false)
+debug: false

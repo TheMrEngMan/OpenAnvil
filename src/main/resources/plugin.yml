@@ -1,0 +1,20 @@
+name: OpenAnvil
+main: com.MrEngMan.OpenAnvil.OpenAnvil
+author: MrEngMan
+description: Open Anvil GUI to enchant witout having an anvil block available
+api-version: '1.13'
+version: 1.0
+
+commands:
+    oareload:
+      description: Reload Config
+      usage: '/oareload'
+    openanvil:
+        description: Open anvil GUI
+        usage: '/openanvil'
+
+permissions:
+  oareload.reload:
+    default: op
+  oareload.open:
+    default: true
